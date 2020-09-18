@@ -7,6 +7,7 @@ Installation:
 2. Install necessary packages "pip3 install -r requirements.txt".
 
 
+
 Codes:
 
 cutter.py
@@ -18,9 +19,12 @@ predict.py
   
   -predict the testing sample wave file. Just input the location path of the wave file to be predicted
   
+  
 Dataset:
   
   -datasets are on the Dataset folder. 16 sample cries for boy and girl are used (More dataset, more accurate)
+  
+  
   
 Training:
 1. Training consists of boy and girl dataset.
