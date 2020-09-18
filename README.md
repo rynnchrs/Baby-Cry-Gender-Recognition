@@ -2,11 +2,16 @@
 Gender Recognition of babies cry using Machine Learning Algorithms(Support Vector Machine and K-Nearest Neighbors) and Signal Processing(Fast Fourier Transform and Discrete Harley Transform)
 
 
+About
+======
+
+
+
 Installation
 ============
 
 1. Use virtualenv in installing libraries and dependencies.
-
+2. Install dependencies and libraries via pip.
 To install using `pip`:
 
     $ pip3 install requirements.txt
