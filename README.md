@@ -2,9 +2,14 @@
 Gender Recognition of babies cry using Machine Learning Algorithms(Support Vector Machine and K-Nearest Neighbors) and Signal Processing(Fast Fourier Transform and Discrete Harley Transform)
 
 
-*Installation:*
+Installation
+============
+
 1. Use virtualenv in installing libraries and dependencies.
-2. Install necessary packages "pip3 install -r requirements.txt".
+
+To install using `pip`,::
+
+    $ pip install -U django-celery-results
 
 
 
