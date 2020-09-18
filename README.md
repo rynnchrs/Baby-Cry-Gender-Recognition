@@ -9,11 +9,12 @@ Installation
 
 To install using `pip`:
 
-    $ pip install -U django-celery-results
+    $ pip3 install requirements.txt
 
 
 
-*Codes:*
+Codes
+=====
 
 **cutter.py**
   
@@ -25,19 +26,20 @@ To install using `pip`:
   -predict the testing sample wave file. Just input the location path of the wave file to be predicted
   
   
-*Dataset:*
-  
+Dataset:
+========  
   -datasets are on the Dataset folder. 16 sample cries for boy and girl are used (More dataset, more accurate)
   
   
   
-*Training:*
+Training:
+=========
 1. Training consists of boy and girl dataset.
 2. Either use Support Vector Machine or K-Nearest Neighbor for the Machine Learning Algorithm.
 3. Either use Fast Fourier Transform or Discrete Harley Transform for the Signal Processing.
 
-*Sample Output:*
-
+Sample Output:
+==============
 
 ![Optional Text](../master/imagesample.png)
 
