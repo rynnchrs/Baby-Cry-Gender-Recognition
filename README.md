@@ -32,10 +32,13 @@ Gender Recognition of babies cry using Machine Learning Algorithms(Support Vecto
 3. Either use Fast Fourier Transform or Discrete Harley Transform for the Signal Processing.
 
 *Sample Output:*
+
+
 ![Optional Text](../master/imagesample.png)
 
-**-Frequency Sampling**
-**-Channels**
-**-Complete Sampling Length**
-**-Length in seconds of the wave file**
-**-Time response of the program**
+
+- Frequency Sampling
+- Channels
+- Complete Sampling Length
+- Length in seconds of the wave file
+- Time response of the program
