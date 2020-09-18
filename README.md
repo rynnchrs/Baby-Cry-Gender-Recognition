@@ -12,6 +12,8 @@ Installation
 
 1. Use virtualenv in installing libraries and dependencies.
 2. Install dependencies and libraries via pip.
+
+
 To install using `pip`:
 
     $ pip3 install requirements.txt
