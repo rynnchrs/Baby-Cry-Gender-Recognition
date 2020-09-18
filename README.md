@@ -7,7 +7,7 @@ Installation
 
 1. Use virtualenv in installing libraries and dependencies.
 
-To install using `pip`,::
+To install using `pip`:
 
     $ pip install -U django-celery-results
 
