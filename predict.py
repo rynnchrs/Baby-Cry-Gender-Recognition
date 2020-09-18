@@ -13,7 +13,7 @@ data = []
 
 decision_tree_pkl_filename = "boy_vs_girl_knn_fft_model.pkl"
 
-fs_rate, signal = wavfile.read('/home/rynnchrs/Desktop/Baby_Cry_Gender_Recognition/Dataset/DISCOMFORT/discomfort1.wav')
+fs_rate, signal = wavfile.read('/home/rynnchrs/Desktop/Baby_Cry_Gender_Recognition/Dataset/BOY/boy1.wav')
 print ("Frequency sampling", fs_rate)
 signal = np.resize(signal,(130000,2))
 l_audio = len(signal.shape)
@@ -50,7 +50,7 @@ plt.subplot(311)
 p1 = plt.plot(t, signal, "g") # plotting the signal
 plt.xlabel('Time')
 plt.ylabel('Amplitude')
-plt.subplot(312)
+plt.subplot(313)
 p2 = plt.plot(freqs, FFT, "r") # plotting the complete fft spectrum
 plt.xlabel('Frequency (Hz)')
 plt.ylabel('Magnitude')
