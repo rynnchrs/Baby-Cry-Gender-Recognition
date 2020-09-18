@@ -36,6 +36,7 @@ Gender Recognition of babies cry using Machine Learning Algorithms(Support Vecto
 
 ![Optional Text](../master/imagesample.png)
 
+![Optional Text](../master/imagesample2.png)
 
 - Frequency Sampling
 - Channels
