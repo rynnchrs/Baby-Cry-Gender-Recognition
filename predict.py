@@ -40,7 +40,7 @@ data.append(FFT)
 decision_tree_model_pkl = open(decision_tree_pkl_filename, 'rb')
 decision_tree_model = pickle.load(decision_tree_model_pkl)
 
-print(decision_tree_model.predict(data))
+print("Predicted Gender: " + str(decision_tree_model.predict(data)))
 
 
 end = time.time()
