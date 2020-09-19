@@ -4,8 +4,16 @@ Gender Recognition of babies cry using Machine Learning Algorithms(Support Vecto
 
 About
 ======
+Machine Learning Algorithms used for Prediction:
+- Support Vector Machine
+- K-Nearest Neighbor
 
+Signal Pre-processing used:
+- Fast Fourier Transform
+- Discrete Hartley Transform (only uses the real values of Fast Fourier Transform)
 
+Length of wavefile used in training and testing:
+- 13000 data (you can use PCA for lessening the data)
 
 Installation
 ============
