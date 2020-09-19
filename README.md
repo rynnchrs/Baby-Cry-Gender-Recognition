@@ -39,14 +39,14 @@ Usage:
 
 **Cut the wave files**
 
-$ python3 cutter.py
+`$ python3 cutter.py`
   
   -cuts the wave files into desired length to be used as dataset or testing sample.
   Note: wave files must be in the same length.
   
 **Predict**
 
-$ python3 predict.py
+`$ python3 predict.py`
   
   -predict the testing sample wave file. Just input the location path of the wave file to be predicted
   
